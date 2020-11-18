@@ -1,6 +1,6 @@
 /*
  * bai1.c
- * Project -> Configure -> C Compiler -> Libraries -> Enable ...
+ * Project -> Configure -> C Compiler -> Libraries -> Alphanumeric LCD(alcd.h)  -> Enable ...
  * RS|PORTA|0
  * RD|PORTA|1
  * EN|PORTA|2
